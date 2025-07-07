@@ -4,6 +4,10 @@
 
 This document presents a comprehensive design for an asynchronous task processing API that accepts text processing tasks, processes them asynchronously, and provides status tracking and result any API's . The system is designed to be scalable, reliable, and extensible for future complex tasks like LLM integration or complex databases.
 
+Problem statement: https://multimodalai.notion.site/BE-Engineer-Multimodal-Take-Home-214c619517dd80d8af73e93bbe7e5b45
+
+### Note: This Document is formatted is done using the clause.
+
 ## 1. Overall Architecture
 
 ### High-Level Architecture
